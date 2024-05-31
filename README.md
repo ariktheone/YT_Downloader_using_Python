@@ -45,7 +45,7 @@ This is a simple web application built with Flask that allows users to download 
 
 ## Contributing
 
-Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request or you can mail me in this address - [Email](arijitmondal200430@gamil.com).
+Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request or you can mail me in this address - [arijitmondal200430@gamil.com](arijitmondal200430@gamil.com).
 
 ## License
 
