@@ -51,6 +51,22 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 
 Thanks goes to these wonderful people for their contributions:
 
-| ![ariktheone](https://avatars.githubusercontent.com/u/ariktheone?v=4) | ![Arighna2003](https://avatars.githubusercontent.com/u/Arighna2003?v=4) |
-|:--:|:--:|
-| [ariktheone](https://github.com/ariktheone) | [Arighna2003](https://github.com/Arighna2003) |
+<div style="display: flex; flex-direction: row; align-items: center;">
+
+<div style="margin-right: 20px; text-align: center;">
+  <a href="https://github.com/ariktheone">
+    <img src="https://avatars.githubusercontent.com/u/ariktheone?v=4" width="100" height="100" alt="ariktheone"/>
+    <br>
+    <sub><b>ariktheone</b></sub>
+  </a>
+</div>
+
+<div style="margin-right: 20px; text-align: center;">
+  <a href="https://github.com/Arighna2003">
+    <img src="https://avatars.githubusercontent.com/u/Arighna2003?v=4" width="100" height="100" alt="Arighna2003"/>
+    <br>
+    <sub><b>Arighna2003</b></sub>
+  </a>
+</div>
+
+</div>
