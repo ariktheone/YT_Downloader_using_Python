@@ -69,12 +69,6 @@ Thanks goes to these wonderful people for their contributions:
   </a>
 </div>
 
-<div style="text-align: center;">
-  <a href="https://github.com/arijitmondal200430" style="text-decoration: none; color: inherit;">
-    <img src="https://avatars.githubusercontent.com/u/117704271?v=4" width="100" height="100" style="border-radius: 50%;" alt="arijitmondal200430"/>
-    <br>
-    <strong>arijitmondal200430</strong>
-  </a>
-</div>
+
 
 </div>
