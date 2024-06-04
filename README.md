@@ -55,7 +55,7 @@ Thanks goes to these wonderful people for their contributions:
 
 <div style="margin-right: 20px; text-align: center;">
   <a href="https://github.com/ariktheone">
-    <img src="https://avatars.githubusercontent.com/u/ariktheone?v=4" width="100" height="100" alt="ariktheone"/>
+    <img src="https://avatars.githubusercontent.com/u/117704271?v=4" width="100" height="100" alt="ariktheone"/>
     <br>
     <sub><b>ariktheone</b></sub>
   </a>
