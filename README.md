@@ -51,7 +51,7 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 
 Thanks goes to these wonderful people for their contributions:
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 40px; flex-wrap: wrap; margin-top: 20px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 40px; flex-wrap: nowrap; margin-top: 20px;">
 
 <div style="text-align: center;">
   <a href="https://github.com/ariktheone" style="text-decoration: none; color: inherit;">
@@ -66,6 +66,14 @@ Thanks goes to these wonderful people for their contributions:
     <img src="https://avatars.githubusercontent.com/u/121758941?v=4" width="100" height="100" style="border-radius: 50%;" alt="Arighna2003"/>
     <br>
     <strong>Arighna2003</strong>
+  </a>
+</div>
+
+<div style="text-align: center;">
+  <a href="https://github.com/arijitmondal200430" style="text-decoration: none; color: inherit;">
+    <img src="https://avatars.githubusercontent.com/u/117704271?v=4" width="100" height="100" style="border-radius: 50%;" alt="arijitmondal200430"/>
+    <br>
+    <strong>arijitmondal200430</strong>
   </a>
 </div>
 
