@@ -51,7 +51,6 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 
 Thanks goes to these wonderful people for their contributions:
 
-| ![ariktheone](https://avatars.githubusercontent.com/u/ariiktheone?v=4) | ![Arighna2003](https://avatars.githubusercontent.com/u/Arighna2003?v=4) |
+| ![ariktheone](https://avatars.githubusercontent.com/u/ariktheone?v=4) | ![Arighna2003](https://avatars.githubusercontent.com/u/Arighna2003?v=4) |
 |:--:|:--:|
 | [ariktheone](https://github.com/ariktheone) | [Arighna2003](https://github.com/Arighna2003) |
-
