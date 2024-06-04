@@ -55,7 +55,7 @@ Thanks goes to these wonderful people for their contributions:
 
 <div style="margin-right: 20px; text-align: center;">
   <a href="https://github.com/ariktheone">
-    <img src="https://avatars.githubusercontent.com/u/ariktheone?v=4" width="100" height="100" alt="ariktheone"/>
+    <img src="[https://avatars.githubusercontent.com/u/ariktheone?v=4](https://github.com/account)" width="100" height="100" alt="ariktheone"/>
     <br>
     <sub><b>ariktheone</b></sub>
   </a>
@@ -63,7 +63,7 @@ Thanks goes to these wonderful people for their contributions:
 
 <div style="margin-right: 20px; text-align: center;">
   <a href="https://github.com/Arighna2003">
-    <img src="https://avatars.githubusercontent.com/u/Arighna2003?v=4" width="100" height="100" alt="Arighna2003"/>
+    <img src="[https://avatars.githubusercontent.com/u/Arighna2003?v=4](https://avatars.githubusercontent.com/u/121758941?v=4)" width="100" height="100" alt="Arighna2003"/>
     <br>
     <sub><b>Arighna2003</b></sub>
   </a>
